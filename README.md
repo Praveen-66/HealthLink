@@ -2,7 +2,7 @@
 
 An AI-powered health management system that analyzes symptoms, recommends doctors, and schedules appointments using Google Gemini AI and Pinecone RAG technology.
 
-## 📋 Overview
+## Overview
 
 HealthLink is a production-ready educational project demonstrating modern GenAI application architecture with:
 
